@@ -1,10 +1,10 @@
 # Welcome to Syngenta Digital!
 
-We are glad to have you join our mission to build enterprise-grade software which empowers growers to the world 🌎.
+We are glad to have you join our mission to build enterprise-grade software which empowers growers to feed the world 🌎.
 
 ### Organization Guidelines
 
-In order to making working with our software easier, we have set some guidelines on how we operate within this organization. You can find guidelines on the following topics, for such topics as:
+In order to make working with our software easier, we have set some guidelines on how we operate within this organization. You can find guidelines on the following topics:
 
 1. Repository Naming Convention
 2. Coding Standards
