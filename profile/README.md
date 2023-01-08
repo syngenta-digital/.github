@@ -6,12 +6,12 @@ We are glad to have you join our mission to build enterprise-grade software whic
 
 In order to make working with our software easier, we have set some guidelines on how we operate within this organization. You can find guidelines on the following topics:
 
-1. Repository Naming Convention
-2. Coding Standards
-3. Test Coverage Standards
-4. Secrets Management
-5. Access control
-6. Automated jobs
+1. [Repository Naming Convention](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/1950255692/Repository+Naming+Convention)
+2. [Coding Standards](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/1370882505/Version+Control+Strategy)
+3. [Test Coverage Standards](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/2122645505/Repository+Compliance+Standards#3.-Automated-Testing)
+4. [Secrets Management](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/2301591649/Secrets+In+Repos)
+5. [Access control](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/2300610856/Allowing+Direct+Access+to+Production+Resources+Data)
+6. [Automated jobs](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/overview#Automations)
 7. Much more. . .
 
 Pleaes review our [confluence page](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO) for latest details.
