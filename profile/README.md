@@ -12,7 +12,7 @@ In order to make working with our software easier, we have set some guidelines o
 4. [Secrets Management](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/2301591649/Secrets+In+Repos)
 5. [Access control](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/pages/2300610856/Allowing+Direct+Access+to+Production+Resources+Data)
 6. [Automated jobs](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/overview#Automations)
-7. Much more. . .
+7. [Much more. . .](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO/overview#GitOps)
 
 Pleaes review our [confluence page](https://digitial-product-engineering.atlassian.net/wiki/spaces/GDO) for latest details.
 
